@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "RStudio Consulting & High Technology Website"
+  navbar:
+    background: light
+    title: false
+    collapse-below: lg
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Resources"
+        href: resources.qmd
+    right:
+    - text: "About"
+      href: about.qmd
+    - icon: github
+      href: https://github.com/tatsushi1/CHT.git
+  page-footer:
+    left: |
+      Powered by
+      [![](https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg){width=65px}](https://www.rstudio.com)
+      [![](https://quarto.org/quarto.png){width=65px}](https://quarto.org/docs/websites/)
+
+format:
+  html:
+    toc: true
+    theme:
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
+    css: styles.css
+    include-after-body: js.html
+
+freeze: true
+
+editor: visual
+

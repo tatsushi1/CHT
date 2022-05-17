@@ -1,0 +1,49 @@
+---
+title: "Resources"
+---
+
+::: {.content-block}
+
+### Guides and Tutorials
+
+How To Guides  | Video Tutorials
+------------- | -------------
+[How to Publish an R Markdown Document to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-rmd/)  |  [Publishing with Collaboration on RStudio Connect](https://docs.rstudio.com/tutorials/user/publishing-with-collaboration-on-rsc/)
+[How to Publish a Shiny App to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-shinyapp/)  |  [Publishing Jupyter Notebooks to RStudio Connect](https://docs.rstudio.com/tutorials/user/publishing-jupyter-notebooks-to-rsc/)
+[How to Publish a Plumber API to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-plumberapi/)  |  [Using Python with RStudio and reticulate](https://docs.rstudio.com/tutorials/user/using-python-with-rstudio-and-reticulate/)
+[How to Publish a Jupyter Notebook to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-jupyter-notebook/)  | [Using RStudio Workbench with AWS Sagemaker](https://www.youtube.com/watch?v=fmgSVRWgXDg)
+[Pro Tips for `pins`](https://docs.rstudio.com/how-to-guides/users/pro-tips/pins/)  | [Getting Started with `pins`](https://www.youtube.com/watch?v=3Yk6U_XqxNo)
+[Pro Tips for `connectwidgets`](https://docs.rstudio.com/how-to-guides/users/pro-tips/widgets/)  |  [Build Your Ideal Showcase of Data Products](https://www.youtube.com/watch?v=GBNzhIkObyE&t=43s) |
+[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)  |
+[How to Scale and Tune Performance in RStudio Connect](https://support.rstudio.com/hc/en-us/articles/231874748-Scaling-and-Performance-Tuning-in-RStudio-Connect)  | 
+[How to Build a Custom Login Page for RStudio Connect](https://appsilon.com/custom-login-page-for-rstudio-connect/) |
+[How to Speed Up Data Analytics and Wrangling with Parquet Files](https://www.rstudio.com/blog/speed-up-data-analytics-with-parquet-files/))  |
+[How to Democratize Data with R, Python, and Slack - RStudio](https://www.rstudio.com/blog/r-in-marketing-meetup/)  |
+
+
+
+### Documentation
+
+User Documentation  | Admin Documentation
+------------- | -------------
+[Creating Interactive Applications](https://solutions.rstudio.com/examples/apps-overview/)  | [Reference Architectures](https://solutions.rstudio.com/production/architectures/)
+
+[Deploy Tensorflow Models](https://solutions.rstudio.com/examples/tensorflow-overview/)  | [Scaling R and RStudio](https://support.rstudio.com/hc/en-us/articles/236226087-Scaling-R-and-RStudio/)
+
+[REST APIs with Plumber](https://solutions.rstudio.com/examples/rest-apis-overview/)  | [Reproducible Environments for Data Science](https://environments.rstudio.com/)
+
+[Create Excel, Word, and PowerPoint output with R Markdown](https://solutions.rstudio.com/examples/reports-overview/)  | [R options and environment variables on startup](https://support.rstudio.com/hc/en-us/articles/360047157094-Managing-R-with-Rprofile-Renviron-Rprofile-site-Renviron-site-rsession-conf-and-repos-conf/)
+
+[Publishing Methods for RStudio Connect](https://solutions.rstudio.com/deploy/methods/)  | [Installation, Admin, and User Guides](https://docs.rstudio.com/)
+
+[Using Python with RStudio (Jupyter Notebooks, Flask APIs, Dash Apps)](https://solutions.rstudio.com/python/overview/)  | [RStudio Team Admin Training](https://team-admin.rstudio.com/overview/)
+
+[Databases using R](https://db.rstudio.com/)  | [RStudio in Production - All Resources](https://solutions.rstudio.com/)
+
+[Run Background and Launcher Jobs](https://solutions.rstudio.com/examples/jobs-overview/)  |
+
+
+
+---
+
+:::

@@ -1,0 +1,44 @@
+---
+pagetitle: "RStudio Consulting & High Technology"
+description: The RStudio Consulting & High Technology Website provides resources, news and application demonstrations for Consulting and High Technology companies interested in RStudio Professional Products and Open Source offerings
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+editor: source
+---
+
+::: {.content-block}
+
+<center>
+# Welcome to the RStudio
+# Consulting & High Technology Website
+</center>
+
+---
+
+[![RStudio Concept Map](images/RStudio_Product_Diagram.png "RStudio Team")](https://rstudio.com/products/team/) 
+
+---
+
+**RStudio Team** gives your organization access to the leading modular platform for data science, including:
+
+* **RStudio Workbench** to analyze data and create data products using R or Python in the RStudio IDE, Jupyter Notebooks, or JupyterLab
+
+* **RStudio Connect** to easily deploy, schedule, automate, and scale data products with the click of a button, including Shiny apps, R Markdown reports, Jupyter Notebooks, Flask APIs, Dash apps, and more.
+
+* **RStudio Package Manager** to control and manage R packages across the enterprise for governance and reproducibility.
+
+**Learn more about:**
+
+::: {.hero-buttons}
+<center>
+[Consulting & High Technology Use Cases & Insights](https://www.rstudio.com/champion/consulting){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+</center>
+::: 
+
+![](images/rs_symbols.jpg)
+
+---
+
+:::

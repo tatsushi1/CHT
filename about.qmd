@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+::: {.content-block}
+
+About this site
+
+:::
