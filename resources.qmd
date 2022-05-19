@@ -27,21 +27,13 @@ How To Guides  | Video Tutorials
 User Documentation  | Admin Documentation
 ------------- | -------------
 [Creating Interactive Applications](https://solutions.rstudio.com/examples/apps-overview/)  | [Reference Architectures](https://solutions.rstudio.com/production/architectures/)
-
 [Deploy Tensorflow Models](https://solutions.rstudio.com/examples/tensorflow-overview/)  | [Scaling R and RStudio](https://support.rstudio.com/hc/en-us/articles/236226087-Scaling-R-and-RStudio/)
-
 [REST APIs with Plumber](https://solutions.rstudio.com/examples/rest-apis-overview/)  | [Reproducible Environments for Data Science](https://environments.rstudio.com/)
-
 [Create Excel, Word, and PowerPoint output with R Markdown](https://solutions.rstudio.com/examples/reports-overview/)  | [R options and environment variables on startup](https://support.rstudio.com/hc/en-us/articles/360047157094-Managing-R-with-Rprofile-Renviron-Rprofile-site-Renviron-site-rsession-conf-and-repos-conf/)
-
 [Publishing Methods for RStudio Connect](https://solutions.rstudio.com/deploy/methods/)  | [Installation, Admin, and User Guides](https://docs.rstudio.com/)
-
 [Using Python with RStudio (Jupyter Notebooks, Flask APIs, Dash Apps)](https://solutions.rstudio.com/python/overview/)  | [RStudio Team Admin Training](https://team-admin.rstudio.com/overview/)
-
 [Databases using R](https://db.rstudio.com/)  | [RStudio in Production - All Resources](https://solutions.rstudio.com/)
-
 [Run Background and Launcher Jobs](https://solutions.rstudio.com/examples/jobs-overview/)  |
-
 
 
 ---
