@@ -23,11 +23,13 @@ editor: source
 
 **RStudio Team** gives your organization access to the leading modular platform for data science, including:
 
-* **RStudio Workbench** to analyze data and create data products using R or Python in the RStudio IDE, Jupyter Notebooks, or JupyterLab
+**RStudio Workbench** | **RStudio Package Manager** | **RStudio Connect**
+------------- | ------------- | -------------
+Analyze data and create data products using R or Python in the RStudio IDE, Jupyter Notebooks, JupyterLab, or VS Code. | Control and manage R and Python packages across the enterprise for governance and reproducibility. | Easily deploy, schedule, automate, and scale data products with the click of a button, including Shiny apps, R Markdown reports, Jupyter Notebooks, Flask/Fast APIs, Dash/Streamlit apps, and more.
 
-* **RStudio Connect** to easily deploy, schedule, automate, and scale data products with the click of a button, including Shiny apps, R Markdown reports, Jupyter Notebooks, Flask APIs, Dash apps, and more.
+![](images/rs_symbols.jpg)
 
-* **RStudio Package Manager** to control and manage R packages across the enterprise for governance and reproducibility.
+---
 
 **Learn more about:**
 
@@ -37,7 +39,7 @@ editor: source
 </center>
 ::: 
 
-![](images/rs_symbols.jpg)
+
 
 ---
 
